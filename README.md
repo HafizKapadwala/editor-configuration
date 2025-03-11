@@ -39,7 +39,7 @@ Clone this repository and place the configuration files in the appropriate Neovi
 ```bash
 mkdir -p ~/.config/nvim
 cd ~/.config/nvim
-git clone <your-repo-url> .
+git clone https://github.com/HafizKapadwala/editor-configuration.git.
 ```
 
 Start Neovim and install plugins using the package manager (e.g., Lazy.nvim):
