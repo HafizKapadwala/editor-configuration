@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my customized Neovim setup! 🚀 I use **Neovim** as my primary code editor, and I have configured it extensively using **Lua**. My configuration is modular, making it easy to maintain and extend. Below is a detailed breakdown of my setup, including key configurations, plugins, and custom scripts.
+Welcome to my customized Neovim setup! I use **Neovim** as my primary code editor, and I have configured it extensively using **Lua**. My configuration is modular, making it easy to maintain and extend. Below is a detailed breakdown of my setup, including key configurations, plugins, and custom scripts.
 
 ---
 
