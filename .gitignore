@@ -1,0 +1,47 @@
+./iterm/
+./rstudio/
+
+#Neovim specific files:
+swap/
+*.swp
+*.swo
+*.swn
+session.vim
+*.un~
+backup/
+undo/
+
+# plugin related file
+lazy-lock.json
+
+#log files:
+*.log
+log/
+
+# Compiled files
+*.o
+*.out
+*.bin
+*.exe
+*.pyc
+*.pyo
+*.class
+*.cache
+*.DS_Store
+
+# Node.js dependencies (if used)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python Virtual Environment (if applicable)
+venv/
+__pycache__/
+
+# LSP-related files
+.lsp_servers/
+coc.nvim/
+
+# Neovim Sessions
+session.vim
+sessions/
