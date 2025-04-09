@@ -45,3 +45,5 @@ coc.nvim/
 # Neovim Sessions
 session.vim
 sessions/
+
+github-copilot/
