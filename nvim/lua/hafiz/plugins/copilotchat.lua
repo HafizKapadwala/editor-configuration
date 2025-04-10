@@ -21,6 +21,7 @@ return {
 			{ "<leader>co", ":CopilotChatOptimize<CR>", mode = "v", desc = "Copilot Optimize" },
 			{ "<leader>cd", ":CopilotChatDocs<CR>", mode = "v", desc = "Copilot Docs" },
 			{ "<leader>ct", ":CopilotChatTests<CR>", mode = "v", desc = "Copilot tests" },
+			{ "<leader>cl", ":Copilot<CR>", mode = "n", desc = "Load the Copilot" },
 		},
 	},
 }
